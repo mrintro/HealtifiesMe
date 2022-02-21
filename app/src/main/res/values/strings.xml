@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HealtifiesMe</string>
+    <string name="Home">Home</string>
+    <string name="Discover">Discover</string>
+    <string name="Diary">Diary</string>
+    <string name="Menu">Menu</string>
+</resources>
